@@ -4,12 +4,10 @@
   box-sizing: border-box;
 }
 
-.navbar{
-    background: transparent;
-}
+
 
 .navbar-brand {
-  font-size: 2rem;
+  font-size: 1.7rem;
   color: black;
   font-family: 'Dancing Script';
 }
